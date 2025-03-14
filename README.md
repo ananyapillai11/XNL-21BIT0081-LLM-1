@@ -9,6 +9,7 @@ Blockchain Compliance & Security
 Ultra-Low Latency Execution
 Advanced Fraud Detection & Log Analysis
 This challenge will push your financial AI, DevOps, security, full-stack development, and blockchain skills to the absolute limit. Your system must be highly resilient, real-time, and regulatory-compliant while maintaining high scalability.
+
 📌 PHASE 1: FINTECH LLM ARCHITECTURE & DATA INGESTION
 ✅ Design & Implement a Custom FinTech LLM Ecosystem
 •	Deploy 3+ LLM Models (Bloom, GPT-4-Turbo, LLaMA, Mixtral, Falcon) with: 
